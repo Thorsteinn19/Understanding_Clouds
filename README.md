@@ -1,6 +1,6 @@
 # Understanding_Clouds
 Group 4 - solution to the kaggle competition understanding clouds
-
+```
 Preprocessing
 	- Download all data from Kaggle, Understanding Clouds from Satellite Images
 	- Run boundingbox.py in the same directory as the train.csv to convert runlength encoding to bounding boxes
@@ -26,3 +26,4 @@ Post processing
 	- Run the kagglesubmission.py file, make sure that submission=pd.read_csv('results.csv') points to the file generated above.
 	- Then upload the now generated submission.csv file to kaggle
 
+```
