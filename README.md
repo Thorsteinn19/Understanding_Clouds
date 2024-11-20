@@ -1,5 +1,5 @@
 # Understanding_Clouds
-Group 4 - solution to the kaggle competition understanding clouds
+Group 4 - solution to the kaggle competition understanding clouds (Calvin, Erik, Grant, Thorsteinn)
 ```
 Preprocessing
 	- Download all data from Kaggle, Understanding Clouds from Satellite Images
