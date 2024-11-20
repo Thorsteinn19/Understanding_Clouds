@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Fish', 'Flower', 'Gravel', 'Sugar']
+
+roboflow:
+  workspace: clouddata
+  project: cloud-detection-merdk
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/clouddata/cloud-detection-merdk/dataset/2
